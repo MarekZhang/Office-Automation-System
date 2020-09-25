@@ -11,17 +11,17 @@ New department or staff can be added to the whole system.
 The whole processing flow is described below.
 
 <p>
-    <img src="presentation/Processing-Flow.png" width=350 />
+    <img src="presentation/Processing-Flow.png" width=400 />
 </p>
 
 ## ERD Table
 
 <p>
-    <img src="presentation/ERD.png" width=300>
+    <img src="presentation/ERD.png" width=350>
 </p>
 
 ## Test Account
-Four test account is provided:
+Four test accounts are provided:
 
 |  ID   | Password  |  Duty  |
 |  ----  | ----  | ----  |
