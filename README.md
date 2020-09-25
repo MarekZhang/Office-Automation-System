@@ -2,7 +2,7 @@
 A basic expense claim system based on SSM (Spring + SpringMVC + Mybatis)
 
 ## Description
-There are four basic roles in this system including general staff, department manager, accountant and general manager. Each role have the right to initiate a personal expense claim sheet. People with distinct duties would audit an application differently.
+There are four basic roles in this system including general staff, department manager, accountant and general manager. Each role has the right to initiate a personal expense claim sheet. People with distinct duties would audit an application differently.
 
 New department or staff can be added to the whole system.
 
@@ -53,7 +53,7 @@ Four test account is provided:
 - Processing Flow
 
 <p>
-    <img src="presentation/Processing-Flow.gif" width=550>
+    <img src="presentation/processing-flow.gif" width=550>
 </p>
 
 ## Tech Stack
